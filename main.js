@@ -14,3 +14,5 @@ function randomQuote(){
 }
 
 quoteBtn.addEventListener("click", randomQuote);
+
+//#https://youtu.be/I0v9ZOY3_0k?t=878
